@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.junit.After;
 import static org.junit.Assert.*;
 
-class abcTest {
+public class abcTest {
 
     private static Abc myAbc;
 
